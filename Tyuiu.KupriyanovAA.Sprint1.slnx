@@ -4,4 +4,5 @@
     <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test.csproj" Id="f56af868-1a2e-4c70-8db0-1371490602d8" />
     <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.csproj" Id="9d07fc63-6cf3-4bb4-b5fc-7b5f800dabea" />
   </Folder>
+  <Folder Name="/Task1/" />
 </Solution>
