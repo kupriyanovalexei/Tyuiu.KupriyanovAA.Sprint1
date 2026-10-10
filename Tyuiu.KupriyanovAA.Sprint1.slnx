@@ -1,12 +1,17 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Lib/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Lib.csproj" Id="49f156ee-a8a5-4443-8230-b0eeb12bb828" />
-    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test.csproj" Id="b27d1785-668a-45f9-b889-55e9118297d3" />
-    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.csproj" Id="29f998a1-9f18-4874-9bf1-c31b6ba6b76e" />
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Lib/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Lib.csproj" Id="dbd0e51e-0abf-4f97-a645-ca37223be3eb" />
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test.csproj" Id="7665459a-d66e-4cec-a012-8f33c5f0ebab" />
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task0.V7/Tyuiu.KupriyanovAA.Sprint1.Task0.V7.csproj" Id="312c1b38-f86d-40da-9f71-2d1bd6edf046" />
   </Folder>
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task1.V15.Lib/Tyuiu.KupriyanovAA.Sprint1.Task1.V15.Lib.csproj" Id="20e96aa4-03b2-4155-9163-b72ae18edb6d" />
     <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task1.V15.Test/Tyuiu.KupriyanovAA.Sprint1.Task1.V15.Test.csproj" Id="1997b98a-09b4-4018-b7c5-e6f58fccc0f2" />
     <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task1.V15/Tyuiu.KupriyanovAA.Sprint1.Task1.V15.csproj" Id="6013345c-361a-4f94-abf7-d3c08ea6456f" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task3.V10.Lib/Tyuiu.KupriyanovAA.Sprint1.Task3.V10.Lib.csproj" Id="7a59c2d4-2f1f-4984-9aae-c203436d623b" />
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task3.V10.Test/Tyuiu.KupriyanovAA.Sprint1.Task3.V10.Test.csproj" Id="ca0079c5-7399-4c17-b181-90f56913508e" />
+    <Project Path="Tyuiu.KupriyanovAA.Sprint1.Task3.V10/Tyuiu.KupriyanovAA.Sprint1.Task3.V10.csproj" Id="b0d68945-3064-4fc9-a894-6ce7c272657c" />
   </Folder>
 </Solution>
