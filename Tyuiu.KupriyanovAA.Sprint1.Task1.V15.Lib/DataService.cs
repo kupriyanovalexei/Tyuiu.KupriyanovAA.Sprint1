@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tyuiu.KupriyanovAA.Sprint1.Task1.V15.Lib
+namespace Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Lib
 {
     public class DataService : ISprint1Task1V15
     {
