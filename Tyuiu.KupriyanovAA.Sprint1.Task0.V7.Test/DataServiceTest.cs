@@ -12,7 +12,7 @@ namespace Tyuiu.KupriyanovAA.Sprint1.Task0.V7.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(5, res);
+            Assert.AreEqual(5, res); // 18/6*2 - (4-3) = 6 - 1 = 5
         }
     }
 }
