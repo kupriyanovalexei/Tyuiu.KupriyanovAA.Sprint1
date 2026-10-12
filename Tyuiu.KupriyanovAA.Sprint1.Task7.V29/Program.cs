@@ -24,7 +24,7 @@ namespace Tyuiu.KupriyanovAA.Sprint1.Task7.V29
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет математическое выражение          *");
-            Console.WriteLine("* z = x - cos^3(x)/(xy-3) + sin^5(x)/(xy+5).                              *");
+            Console.WriteLine("* z = x - cos(x^3)/(xy-3) + sin(x^5)/(xy+5).                              *");
             Console.WriteLine("* Ответ округлите до 3 знаков после запятой.                              *");
             Console.WriteLine("***************************************************************************");
 

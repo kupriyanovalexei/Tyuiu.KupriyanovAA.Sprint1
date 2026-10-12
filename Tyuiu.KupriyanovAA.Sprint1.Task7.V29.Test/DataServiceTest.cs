@@ -12,16 +12,14 @@ namespace Tyuiu.KupriyanovAA.Sprint1.Task7.V29.Test
         {
             DataService ds = new DataService();
 
-            // Тестовые значения: x = 1, y = 1
-            double x = 1;
-            double y = 1;
+            // Тестовые значения
+            double x = 2;
+            double y = 4;
 
-            // Вызываем метод
             var res = ds.Calculate(x, y);
 
-            // Ожидаемый результат (посчитано на калькуляторе): примерно 1.149
-            // Если тест упадёт заменить значение на то, что выдаст программа.
-            Assert.AreEqual(1.149, res, 0.001); // 0.001 — допустимая погрешность
+            // Ожидаемый результат: 2.072
+            Assert.AreEqual(2.072, res);
         }
     }
 }

@@ -12,17 +12,17 @@ namespace Tyuiu.KupriyanovAA.Sprint1.Task7.V29.Lib
         // Метод принимает x и y, возвращает результат по формуле
         public double Calculate(double x, double y)
         {
-            // cos^3(x)
-            double cosCubed = Math.Pow(Math.Cos(x), 3);
+            // cos(x^3)
+            double cosX3 = Math.Cos(Math.Pow(x, 3));
 
-            // sin^5(x)
-            double sinFifth = Math.Pow(Math.Sin(x), 5);
+            // sin(x^5)
+            double sinX5 = Math.Sin(Math.Pow(x, 5));
 
             // xy
             double xy = x * y;
 
-            // z = x - cos^3(x)/(xy - 3) + sin^5(x)/(xy + 5)
-            double z = x - (cosCubed / (xy - 3)) + (sinFifth / (xy + 5));
+            // z = x - cos(x^3)/(xy - 3) + sin(x^5)/(xy + 5)
+            double z = x - (cosX3 / (xy - 3)) + (sinX5 / (xy + 5));
 
             // Округляем до 3 знаков после запятой
             return Math.Round(z, 3);
